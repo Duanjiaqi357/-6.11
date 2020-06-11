@@ -1,0 +1,99 @@
+/*
+* @Author: 段段
+* @Date:   2020-06-05 20:35:56
+* @Last Modified by:   段段
+* @Last Modified time: 2020-06-11 12:09:39
+*/
+	body{	
+		font-family: "宋体";
+		font-size: 14px;
+		color:#000000;
+		line-height: 20px;
+		text-align:left; 
+		background:#eeeeee
+	}
+	td,th{
+		font-family: "宋体";
+		font-size: 12px;
+		color: #000000;
+	}
+	a{
+		color: #000000;
+	} 
+	A:link{
+		TEXT-DECORATION: none;
+	}
+	ul,li{
+		list-style-type:none;
+	}
+	.clearit{
+		clear:both;
+	}
+	.all{
+		width: 100%;
+		height: 100%;
+		background-color: #FFC0CB;
+	}
+	.yi{
+		width:1000px; 
+		margin:0 auto;
+	}
+	.da{
+		width:800px; 
+		float:left
+	}
+	.da h1{
+		text-align:center; 
+		margin-top:30px;
+	}
+	.xia{
+		width:800px; 
+		background:#FFF; 
+		margin-top:30px;
+	}
+	.ban{
+		width:800px; height:271px; 
+	}
+	.er{
+		width:760px; 
+		padding:20px;
+	}
+	.er h2{
+		text-align:center; 
+		font-family: "幼圆"; 
+	}
+	.er p{
+		line-height:30px; 
+		text-indent:2em;
+	}
+	.foot{
+		width:800px; 
+		height:50px;  
+		margin-top:20px; 
+		text-align:center; 
+		line-height:50px; 
+		font-size:16px; 
+		font-weight:bold;
+		color: gray;
+	}
+	.nav{
+		width:200px; 
+		float:left; 
+		padding-top:300px;
+	}
+	.nav li{
+		width:150px; 
+		height:40px; 
+		background:url(../images/t.jpg); 
+		margin-left:50px; 
+		margin-top:40px; 
+		line-height:40px;
+	}
+	.nav li a{ 
+		font-size:16px; 
+		font-weight:bold; 
+		padding-left:15px;
+	}
+	.nav li A:hover{ 
+		color:#666;
+	}
